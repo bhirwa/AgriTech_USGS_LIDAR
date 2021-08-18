@@ -2,7 +2,7 @@
 
 - Free software: MIT license
 
-- This project creates a python module that domain experts and data scientists can use to fetch, visualise, and transform publicly available satellite and LIDAR data,simplifying LIDAR point cloud processing and rapid prototyping.
+- This project creates a python module that domain experts and data scientists can use to fetch, visualise, and transform publicly available satellite and LIDAR data, simplifying LIDAR point cloud processing and rapid prototyping.
 
 ## Data
 
