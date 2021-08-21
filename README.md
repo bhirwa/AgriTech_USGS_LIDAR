@@ -10,6 +10,7 @@
 
 ## Installation
 
-
+git clone https://github.com/bhirwa/AgriTech_USGS_LIDAR
+pip install -r requirements.txt
 ## Usage
 
