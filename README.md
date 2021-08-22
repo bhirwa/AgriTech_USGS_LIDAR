@@ -14,5 +14,7 @@ git clone https://github.com/bhirwa/AgriTech_USGS_LIDAR
 
 pip install -r requirements.txt
 
-## Usage
+## Useful links
+
+https://www.earthdatascience.org/courses/use-data-open-source-python/data-stories/what-is-lidar-data/explore-lidar-point-clouds-plasio/ https://towardsdatascience.com/how-to-automate-lidar-point-cloud-processing-with-python-a027454a536c https://pdal.io/tutorial/iowa-entwine.html https://aws.amazon.com/blogs/machine-learning/extracting-buildings-and-roads-from-aws-open-data-using-amazon-sagemaker/
 
