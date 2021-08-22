@@ -1,0 +1,12 @@
+numpy
+requests
+PDAL
+geopandas
+matplotlib
+scipy
+GDAL
+Shapely
+pandas
+osgeo
+raspy
+rasterio
